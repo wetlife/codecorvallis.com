@@ -1,4 +1,7 @@
 /* main.css */
+.container {
+    padding: 0;
+}
 .header {
     text-align: center;
 }
